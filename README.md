@@ -17,9 +17,24 @@
 
 ---
 
+### 🛠 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
+
+---
+
 ### 📌 Fun Facts:
 - I can solve software problems, but I can't solve my personal problem.
 - Passionate about combining technology with design for impactful branding.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=badriyahaddad&color=blue)
+
+---
+
+![GitHub Contribution Graph](https://github.com/badriyahaddad/github-readme-activity-graph)
 
 ---
 
