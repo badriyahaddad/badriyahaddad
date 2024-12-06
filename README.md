@@ -1,6 +1,6 @@
 # Hi there, I'm Badriya Haddad! 👋
 
-🌟 **Software Engineer | Flutter Developer | Aspiring Brand Identity Designer**
+🌟 **Software Engineer | UX /UI Designer | Flutter Developer | Laravel Developer**
 
 🎓 BSc in Information Technology - University of Benghazi  
 💼 Worked at Sarab.Tech, focusing on Flutter development and UX/UI design.  
@@ -18,7 +18,7 @@
 ---
 
 ### 📌 Fun Facts:
-- I love creating interactive tutorials using Flutter.
+- I can solve programming problems but I can't solve my own personal problem.
 - Passionate about combining technology with design for impactful branding.
 
 ---
