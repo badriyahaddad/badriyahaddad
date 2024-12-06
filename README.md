@@ -21,6 +21,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)  
+![UX/UI Design](https://img.shields.io/badge/UX%2FUI%20Design-%23000000.svg?logo=uxdesign&logoColor=white)
 
 ---
 
