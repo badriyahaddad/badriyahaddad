@@ -34,14 +34,22 @@
 
 ---
 
-![GitHub Contribution Graph](https://github.com/badriyahaddad/github-readme-activity-graph)
+![Badriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=badriyahaddad&show_icons=true&theme=dark)
 
 ---
 
-![Badriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=badriyahaddad&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badriyahaddad&layout=compact&theme=dark)
+
+---
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=badriyahaddad&theme=darkhub)
+
+---
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badriyahaddad&theme=dark)
+
+---
+
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=badriyahaddad&theme=dark)
 
 ---
