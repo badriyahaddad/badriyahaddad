@@ -3,8 +3,8 @@
 🌟 **Software Engineer | Software Developer | UX /UI Designer | Flutter Developer | Laravel Developer**
 
 🎓 BSc in Information Technology - University of Benghazi  
-💼 Worked at Sarab.Tech, focusing on Flutter development and UX/UI design.  
-🐱 Proud owner of a white cat with green eyes.  
+💼 3 years of experience focusing on Flutter development and UX/UI design as well as 1 year experience in Laravel development.  
+🐱 Proud pet lover.  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/badriya-haddad-b2207323a) | [GitHub](https://github.com/badriyahaddad)
 
