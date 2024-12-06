@@ -18,7 +18,7 @@
 ---
 
 ### 📌 Fun Facts:
-- I can solve programming problems but I can't solve my own personal problem.
+- I can solve software problems, but I can't solve my personal problem.
 - Passionate about combining technology with design for impactful branding.
 
 ---
