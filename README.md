@@ -23,4 +23,11 @@
 
 ---
 
+![Badriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=badriyahaddad&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badriyahaddad&layout=compact&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=badriyahaddad&theme=darkhub)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badriyahaddad&theme=dark)
+
+---
+
 Feel free to connect with me or check out my repositories! 😊
