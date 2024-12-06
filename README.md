@@ -27,6 +27,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badriyahaddad&layout=compact&theme=dark)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=badriyahaddad&theme=darkhub)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badriyahaddad&theme=dark)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=badriyahaddad&theme=dark)
 
 ---
 
