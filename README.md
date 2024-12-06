@@ -32,6 +32,10 @@
 
 ---
 
+🌐 **Check out my portfolio:** [badriyahaddad.github.io](https://badriyahaddad.github.io/)
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=badriyahaddad&color=blue)
 
 ---
