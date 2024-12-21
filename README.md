@@ -30,6 +30,7 @@
 ### 📌 Fun Facts:
 - I can solve software problems, but I can't solve my personal problem.
 - Passionate about combining technology with design for impactful branding.
+- Always encouraged to learn new skills.
 
 ---
 
