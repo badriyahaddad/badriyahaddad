@@ -7,6 +7,9 @@
 🐱 Pet lover. 
 🎧 Music lover.
 ♟ Chess lover.
+📸 Photography Lover.
+📖 Books Lover.
+🎬 Unhealthy obsession with movies & Tv shows
 
 🔗 [LinkedIn](https://www.linkedin.com/in/badriya-haddad-b2207323a) | [GitHub](https://github.com/badriyahaddad)
 
