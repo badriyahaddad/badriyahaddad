@@ -4,12 +4,6 @@
 
 🎓 BSc in Information Technology - University of Benghazi  
 💼 3 years of experience focusing on Flutter development and UX/UI design as well as 1 year experience in Laravel development.  
-🐱 Pet lover. 
-🎧 Music lover.
-♟ Chess lover.
-📸 Photography Lover.
-📖 Books Lover.
-🎬 Unhealthy obsession with movies & Tv shows
 
 🔗 [LinkedIn](https://www.linkedin.com/in/badriya-haddad-b2207323a) | [GitHub](https://github.com/badriyahaddad)
 
@@ -35,7 +29,13 @@
 - I can solve software problems, but I can't solve my personal problem.
 - Passionate about combining technology with design for impactful branding.
 - Always encouraged to learn new skills.
-
+- Unhealthy obsession with:
+🐱 Pet lover. 
+🎧 Music lover.
+♟ Chess lover.
+📸 Photography Lover.
+📖 Books Lover.
+🎬 Unhealthy obsession with cinema
 ---
 
 🌐 **Check out my portfolio:** [badriyahaddad.github.io](https://badriyahaddad.github.io/)
