@@ -30,12 +30,14 @@
 - Passionate about combining technology with design for impactful branding.
 - Always encouraged to learn new skills.
 - Unhealthy obsession with:
-🐱 Pet lover. 
-🎧 Music lover.
-♟ Chess lover.
-📸 Photography Lover.
-📖 Books Lover.
-🎬 Unhealthy obsession with cinema
+- 🐱 Pets. 
+- 🎧 Music.
+- ♟ Chess.
+- 📸 Photography.
+- 📖 Books.
+- 🖌 Digital art.
+- ✏ Sketching.
+- 🎬 Cinema.
 ---
 
 🌐 **Check out my portfolio:** [badriyahaddad.github.io](https://badriyahaddad.github.io/)
