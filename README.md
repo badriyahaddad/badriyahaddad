@@ -37,6 +37,7 @@
 - 📖 Books.
 - 🖌 Digital art.
 - ✏ Sketching.
+- 📜 writing.
 - 🎬 Cinema.
 ---
 
