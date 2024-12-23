@@ -12,7 +12,7 @@
 ### 🛠 Skills:
 - **Flutter**: Mobile app development (iOS & Android)
 - **Laravel**: Backend API development
-- **UX/UI**: Focused on creating user-friendly designs
+- **UX/UI**: Focused on creating user-friendly designs.
 
 ---
 
