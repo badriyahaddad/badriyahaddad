@@ -1,4 +1,4 @@
-# Hi coders, This is Badriya Haddad!  👋
+# Hey coders, This is Badriya Haddad!  👋
 
 🌟 **Software Engineer | Software Developer | UX /UI Designer | Flutter Developer | Laravel Developer**
 
