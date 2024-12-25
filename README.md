@@ -69,4 +69,4 @@
 
 ---
 
-Feel free to connect with me via my email or check out my repositories! 😊
+Feel free to connect with me via my email / social media accounts or check out my repositories! 😊
