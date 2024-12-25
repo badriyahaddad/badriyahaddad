@@ -58,7 +58,7 @@
 ---
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=badriyahaddad&theme=darkhub)
-
+ 
 ---
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badriyahaddad&theme=dark)
