@@ -73,7 +73,7 @@
 
 ---
 
-[![Badriya's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username)](https://github.com/anuraghazra/github-readme-stats)
+[![Badriya's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=badriyahaddad)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
