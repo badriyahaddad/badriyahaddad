@@ -73,7 +73,7 @@
 
 ---
 
-![Followers](https://img.shields.io/github/followers/badriyahaddad?label=followers&style=social)
+[![Badriya's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
