@@ -72,4 +72,9 @@
 ![Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=badriyahaddad&theme=github)
 
 ---
+
+![Followers](https://img.shields.io/github/followers/badriyahaddad?label=followers&style=social)
+
+---
+
 Feel free to connect with me via my email / social media accounts or check out my repositories! 😊
