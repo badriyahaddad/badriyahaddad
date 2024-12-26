@@ -73,8 +73,4 @@
 
 ---
 
-[![Badriya's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=badriyahaddad)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 Feel free to connect with me via my email / social media accounts or check out my repositories! 😊
