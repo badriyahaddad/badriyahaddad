@@ -69,4 +69,7 @@
 
 ---
 
+![Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=badriyahaddad&theme=github)
+
+---
 Feel free to connect with me via my email / social media accounts or check out my repositories! 😊
