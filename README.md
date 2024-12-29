@@ -68,5 +68,5 @@
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=badriyahaddad&theme=dark)
 
 ---
- 
+
 Feel free to connect with me via my email / social media accounts or check out my repositories! 😊
