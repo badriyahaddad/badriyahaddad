@@ -6,7 +6,7 @@
 💼 3 years of experience focusing on Flutter development and UX/UI design as well as 1 year experience in Laravel development.  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/badriya-haddad-b2207323a) | [GitHub](https://github.com/badriyahaddad)
-
+ 
 ---
 
 ### 🛠 Skills:
