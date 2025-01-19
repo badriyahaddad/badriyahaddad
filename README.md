@@ -8,7 +8,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/badriya-haddad-b2207323a) | [GitHub](https://github.com/badriyahaddad)
 
 ---
- 
+
 ### 🛠 Skills:
 - **Flutter**: Mobile app development (iOS & Android)
 - **Laravel**: Backend API development
