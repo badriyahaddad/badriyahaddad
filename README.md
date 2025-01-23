@@ -1,7 +1,7 @@
 # Hey Coders , This is Badriya Haddad! 👋
 
 🌟 **Software Engineer | Software Developer | UX /UI Designer | Flutter Developer | Laravel Developer** 🌟
- 
+
 🎓 BSc in Information Technology - Software Engineering Department - University of Benghazi  
 💼 3 years of experience focusing on Flutter development and UX/UI design as well as 1 year experience in Laravel development.  
  
