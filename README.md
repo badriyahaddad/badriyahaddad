@@ -61,10 +61,6 @@
  
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badriyahaddad&theme=dark)
-
----
-
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=badriyahaddad&theme=dark)
 
 ---
