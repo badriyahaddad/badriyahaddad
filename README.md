@@ -49,6 +49,10 @@
 
 ---
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badriyahaddad)
+
+---
+
 ![Badriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=badriyahaddad&show_icons=true&theme=dark)
 
 ---
