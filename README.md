@@ -49,7 +49,7 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badriyahaddad)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=badriyahaddad&theme=tokyonight)
 
 ---
 
