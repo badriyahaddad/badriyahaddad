@@ -53,6 +53,10 @@
 
 ---
 
+![GitHub Repo Stars](https://img.shields.io/github/stars/badriyahaddad?style=social)
+
+---
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=badriyahaddad&theme=dark)
 
 ---
