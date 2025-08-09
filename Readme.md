@@ -5,7 +5,7 @@
 🎓 BSc in Information Technology - Software Engineering Department - University of Benghazi  
 💼 I have experience in Flutter development and UI/UX design since 2021 as well as experience in Laravel development since 2023  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/badriya-haddad-b2207323a) | [GitHub](https://github.com/badriyahaddad)
+🔗 [LinkedIn](https://www.linkedin.com/in/badriya-haddad-b2207323a)
 
 ---
  
