@@ -63,5 +63,10 @@
 
 ---
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=badriyahaddad&theme=dark)
+
+---
+
+
 💌 **Let’s Connect!**
 Feel free to explore my projects or reach out via [LinkedIn](https://www.linkedin.com/in/badriya-haddad-b2207323a) – I love collaborating with fellow coders & designers. 😊
