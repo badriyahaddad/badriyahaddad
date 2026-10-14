@@ -14,8 +14,8 @@
 * **Flutter**: Build sleek, responsive mobile apps (iOS & Android)
 * **Laravel**: Craft scalable backend APIs
 * **UX/UI Design**: Transform ideas into intuitive, user-friendly designs
-* **Graphic Design: Create visually compelling graphics and cohesive brand identities
-* **3D Art & Modeling: Transform ideas into 3D models and renders using Blender
+* **Graphic Design**: Create visually compelling graphics and cohesive brand identities
+* **3D Art & Modeling**: Transform ideas into 3D models and renders using Blender
 
 ---
 
