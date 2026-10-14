@@ -1,6 +1,6 @@
 # Hey there, I’m Badriya Haddad! 👋
 
-🌟 **Software Engineer | Flutter & Laravel Developer | UX/UI Designer** 🌟
+🌟 **Software Engineer | Flutter & Laravel Developer | UX/UI Designer | Graphic Designer | 3D Artist** 🌟
 
 🎓 BSc in Information Technology – Software Engineering Department, University of Benghazi
 💼 Coding & designing since 2021 (Flutter & UX/UI) | Laravel since 2023
@@ -14,6 +14,8 @@
 * **Flutter**: Build sleek, responsive mobile apps (iOS & Android)
 * **Laravel**: Craft scalable backend APIs
 * **UX/UI Design**: Transform ideas into intuitive, user-friendly designs
+* **Graphic Design: Create visually compelling graphics and cohesive brand identities
+* **3D Art & Modeling: Transform ideas into 3D models and renders using Blender
 
 ---
 
@@ -24,6 +26,8 @@
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma\&logoColor=white)
 ![UX/UI Design](https://img.shields.io/badge/UX%2FUI%20Design-%23000000.svg?logo=uxdesign\&logoColor=white)
+![3D Art](https://img.shields.io/badge/3D%20Art-%237B61FF.svg?logo=blender&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23E87D0D.svg?logo=blender&logoColor=white)
 
 ---
 
