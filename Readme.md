@@ -3,7 +3,8 @@
 🌟 **Software Engineer | Flutter & Laravel Developer | UX/UI Designer | Graphic Designer | 3D Artist** 🌟
 
 🎓 BSc in Information Technology – Software Engineering Department, University of Benghazi
-💼 Coding & designing since 2021 (Flutter & UX/UI) | Laravel since 2023
+💼 Coding & designing since 2021 (Flutter & UX/UI) | Laravel since 2023 
+✨ Graphic Design & 3D Art since 2026 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/badriya-haddad-b2207323a) | 🌐 [Portfolio](https://badriyahaddad.github.io/)
 
